@@ -1,5 +1,7 @@
 # redux-boilerplate-helpers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alxlu/redux-boilerplate-helpers.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/alxlu/redux-boilerplate-helpers.svg?branch=master)](https://travis-ci.org/alxlu/redux-boilerplate-helpers)
 [![Coverage Status](https://coveralls.io/repos/github/alxlu/redux-boilerplate-helpers/badge.svg?branch=master)](https://coveralls.io/github/alxlu/redux-boilerplate-helpers?branch=master)
 [![npm](https://img.shields.io/npm/v/redux-boilerplate-helpers.svg)](https://www.npmjs.com/package/redux-boilerplate-helpers)
